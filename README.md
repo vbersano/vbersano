@@ -5,6 +5,7 @@
 🏡 São Paulo | BR
 
 https://mangutse.netlify.app/
-https://bersanoblog.netlify.app/
+
+##https://bersanoblog.netlify.app/
   
 
