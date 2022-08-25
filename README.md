@@ -3,7 +3,7 @@
 
 💻 Desenvolvedor Web Full Stack Java
 
-🏫 Universidade Estadual de Campinas (2019 - 2025)
+🏫 Universidade Estadual de Campinas (2019 - 2024)
 
 🏡 Campinas (São Paulo) | BR
 
