@@ -1,7 +1,7 @@
 
 ### Hello World!
 
-💻 Desenvolvedor Web Full Stack Java
+💻 Back-end Development Intern (TaqTile 🇧🇷)
 
 🏫 Engenharia de Software (2022 - 2026)
 
